@@ -7,7 +7,7 @@ public class TestType1 {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Guess a number between 1-10");
+        System.out.println("Guess a number between 1-10.");
 
         boolean isRunning = true;
 
